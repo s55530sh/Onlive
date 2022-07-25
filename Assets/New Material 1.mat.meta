@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset.meta
+guid: 5b0470ac2fd12bb47839275360c552f8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+========
+guid: 6dbdc63ad650c39459fca14b1ed53799
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+>>>>>>>> bbf6171cdaf3126296fc47e201138a79f5cfd2be:Assets/New Material 1.mat.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
