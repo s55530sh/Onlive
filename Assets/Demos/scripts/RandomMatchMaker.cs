@@ -25,7 +25,7 @@ public class RandomMatchMaker : MonoBehaviourPunCallbacks　// ★変更
     public override void OnJoinRandomFailed(short returnCode, string message)
     {
         RoomOptions roomOptions = new RoomOptions();
-        roomOptions.MaxPlayers = 8; // 最大8人まで入室可能
+        roomOptions.MaxPlayers = 32; // 最大8人まで入室可能
         PhotonNetwork.CreateRoom(null, roomOptions); //第一引数はルーム名
     }
     public override void OnJoinedRoom()
